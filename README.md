@@ -1,3 +1,4 @@
-# GraphNNSmallMolecules
+# Graph Neural Network fro small molecules. 
 
-Thus us the improvement of the code from  https://github.com/limresgrp/free-energy-gnn
+This is the improvement of the code from  https://github.com/limresgrp/free-energy-gnn
+Coolmomentum optimizer is used and weight decay is added
